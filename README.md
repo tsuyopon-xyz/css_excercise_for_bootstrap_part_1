@@ -41,8 +41,8 @@
 - Web白熱教室
   - [Bootstrapを使う方法](https://tsuyopon.xyz/learning-contents/web-dev/css/how-to-use-the-bootstrap-css/)
   - [BootstrapのNavbarを使う](https://tsuyopon.xyz/learning-contents/web-dev/css/how-to-use-navbar-in-the-bootstrap-css/)
-  - [BootstrapのGridシステムを使うパート1](https://tsuyopon.xyz/learning-contents/web-dev/css/how-to-use-navbar-in-the-bootstrap-css-part-1/)
-  - [BootstrapのGridシステムを使うパート2](https://tsuyopon.xyz/learning-contents/web-dev/css/how-to-use-navbar-in-the-bootstrap-css-part-2/)
+  - [BootstrapのGridシステムを使うパート1](https://tsuyopon.xyz/learning-contents/web-dev/css/how-to-use-grid-system-in-the-bootstrap-css-part-1/)
+  - [BootstrapのGridシステムを使うパート2](https://tsuyopon.xyz/learning-contents/web-dev/css/how-to-use-grid-system-in-the-bootstrap-css-part-2/)
 - Bootstrapのドキュメント
   - [Theme colors](https://getbootstrap.com/docs/4.1/getting-started/theming/#theme-colors)
   - [Image thumbnails](https://getbootstrap.com/docs/4.1/content/images/#image-thumbnails)
